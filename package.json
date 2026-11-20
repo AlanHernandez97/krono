@@ -1,0 +1,9 @@
+{
+  "name": "krono",
+  "private": true,
+  "scripts": {
+    "dev:api": "pnpm --filter krono-api start:dev",
+    "dev:web": "pnpm --filter krono-web dev",
+    "dev:mobile": "cd krono-mobile && flutter run"
+  }
+}

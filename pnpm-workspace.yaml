@@ -1,0 +1,4 @@
+packages:
+  - "krono-api"
+  - "krono-web"
+  - "packages/*"
